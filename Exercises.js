@@ -137,10 +137,7 @@ function counter(list1, list2){
     }
 
     return {Ovejas: nOvejas, Vacas: nVacas};
-
-
     
-
 }
 
 console.log(counter(rebano1, rebano2));
